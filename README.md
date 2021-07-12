@@ -26,14 +26,13 @@ Hello! My name's Rémi. I'm a software engineer based in :fr: France, mostly pas
 
 ##### :gear: TECHNOLOGIES
 
-- I talk `.js`, `.html`, and `.css` fluently
-- Yes, I also use everything that's around. Like `.scss`, and `.ts` :wink:
+- I speak `.js`, `.html`, and `.css` fluently
+- Yes, I also use everything that revolves around these languages. Like `.scss`, `.ts`, or `.jsx`. :wink:
 - Have you heard about [standard](https://github.com/standard/standard)?
+- Don't tell Debian, but I have a crush on Arch Linux 💕
 
 ##### :memo: PROJECTS & POSTS
 
-- [MMM-RATP](https://gitlab.com/closingin/mmm-ratp) - _A MagicMirror² module to display timetables and traffic information from the RATP_
-- [Migrating away from JSON Web Tokens for sessions](https://closingin.medium.com/migrating-away-from-json-web-tokens-for-sessions-3ee9ce27e51d) - _An article explaining how to use something else than sessions JWTs on Express_
-- [Create your multiboot USB key using Syslinux](https://closingin.medium.com/create-your-multiboot-usb-key-using-syslinux-68d922510db4) - _Ever wondered how to create a live usb, but for multiple OSes? There you go._
-
-That's all I have to share right now :slightly_smiling_face: 
+- [MMM-RATP](https://gitlab.com/closingin/mmm-ratp)
+- [Migrating away from JSON Web Tokens for sessions](https://closingin.medium.com/migrating-away-from-json-web-tokens-for-sessions-3ee9ce27e51d)
+- [Create your multiboot USB key using Syslinux](https://closingin.medium.com/create-your-multiboot-usb-key-using-syslinux-68d922510db4)
