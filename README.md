@@ -22,13 +22,13 @@
 
 ---
 
-Hello! My name's Rémi. I'm a software engineer based in :fr: France, mostly passionate about web development. Besides my work, I'm an OSS advocate and an InfoSec enthusiast!
+Hello! My name's Rémi. I'm a software engineer based in :fr: France, mostly passionate about web development. In my spare time, I contribute to OSS projects and work for an esports-related NPO. I also enjoy reading news about InfoSec!
 
 ##### :gear: TECHNOLOGIES
 
 - I speak `.js`, `.html`, and `.css` fluently
-- Yes, I also use everything that revolves around these languages. Like `.scss`, `.ts`, or `.jsx`. :wink:
-- Have you heard about [standard](https://github.com/standard/standard)?
+- Yes, I also have a great relationship with their friends `.scss`, `.ts`, and `.jsx`. :wink:
+- Have you heard about [standard](https://github.com/standard/standard)? 👀
 - Don't tell Debian, but I have a crush on Arch Linux 💕
 
 ##### :memo: PROJECTS & POSTS
