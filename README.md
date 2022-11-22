@@ -6,7 +6,7 @@
   <a href="https://closingin.medium.com" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://twitter.com/closingin_me" target="_blank">
+  <a href="https://twitter.com/remiweislinger" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://keybase.io/closingin" target="_blank">
